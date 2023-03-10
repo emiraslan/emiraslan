@@ -38,11 +38,10 @@
 <h2> 📌 Status </h2>
 </summary>
 
-- 🔭 I’m currently working at [Frappe](https://frappe.io) in the DevOps Team
-- 🌱 I’m currently learning more on Observability and better DevOps Practices
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- 🔭 I’m currently working on WholesaleExpress
+- 🌱 I’m currently learning more on Orchestration
+- 💬 Ask me about **new technologies, Startups, Edtech and Algorithms**
+- 📫 How to reach me: [@emiraslan](https://github.com/emiraslan)
 
 </details>
 
@@ -218,7 +217,6 @@
   </a> 
 </p>
 
----
 
 </details>
 <br />
