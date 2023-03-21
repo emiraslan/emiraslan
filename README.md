@@ -40,7 +40,7 @@
 
 - 🔭 I’m currently working on VueJS and NuxtJS projects
 - 🌱 I’m currently learning more on Containerization
-- 💬 Ask me about **new technologies, Startups, Edtech and Algorithms**
+- 💬 Ask me about **new technologies, startups, edtech and algorithms**
 - 📫 How to reach me: [@emiraslan](mailto:amiraslan.bakhshili@gmail.com) 
 
 </details>
