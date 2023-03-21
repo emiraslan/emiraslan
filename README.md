@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Senior+Fullstack+Developer;Co-Founder+%40+Oxuyan%2C+Inkuiz%2C+BiAtoms;Entrepreneurial+Tech+Enthusiast" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Senior+Fullstack+Developer;Co-Founder+%40+Oxuyan%2C+Inkuiz%2C+BiAtoms;Entrepreneurial+Tech+Enthusiast" alt="Amiraslan Bakhshili - Software Engineer" /></a>
 </p>
 
 <p align="center">
