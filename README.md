@@ -38,8 +38,8 @@
 <h2> 📌 Status </h2>
 </summary>
 
-- 🔭 I’m currently working on VueJS and NuxtJS projects
-- 🌱 I’m currently learning more on Containerization
+- 🔭 I’m currently working on fullstack and devops projects
+- 🌱 I’m currently learning more on ML/AI
 - 💬 Ask me about **new technologies, startups, edtech and algorithms**
 - 📫 How to reach me: [@emiraslan](mailto:amiraslan.bakhshili@gmail.com) 
 
